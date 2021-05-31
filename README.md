@@ -22,7 +22,7 @@
 | Prototyping | ★★★★
 | English | ★★
 
-## __SofrSkills__
+## __SoftSkills__
 | Name | Stars |
 | --------- | --------- |
 | Communication | ★★★★  
