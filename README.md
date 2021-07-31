@@ -3,7 +3,7 @@
 #### [__Bustail__](https://bustail.online) - online service for passenger transportation in Russia
 
 ### Guidelines
-#### [Compositions files FastApi in project](https://github.com/AlexDemure/fastapi-architecture)
+#### [Compositions files in FastApi project](https://github.com/AlexDemure/fastapi-architecture)
 #### [Base microservices with RabbitMQ](https://github.com/AlexDemure/service-rabbit-service)
 
 ### Сurrent stack
