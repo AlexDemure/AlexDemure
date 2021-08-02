@@ -10,6 +10,6 @@
 | BackEnd  | FrontEnd | Manager Tools
 | ------------- | ------------- | ------------- |
 |  Python 3.8+  | React JS  | BPMN.io  |
-|  FastApi  | HTML | Miro  |
+|  FastApi  | HTML, BAM | Miro  |
 |  SQLAlchemy, Tortoise ORM  | CSS  | Google Documents  |
-|  Postgresql, MongoDB  | BAM  | ClickUp, Jira, Hubstaff  |
+|  Postgresql, MongoDB  | JS  | ClickUp, Jira, Hubstaff  |
