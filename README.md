@@ -1,6 +1,4 @@
-#  __Python Developer & Team Manager__
-### Own product
-#### [__Bustail__](https://bustail.online) - online service for passenger transportation in Russia
+#  __'Business' Python Developer__
 
 ### Guidelines
 #### [Compositions files in FastApi project](https://github.com/AlexDemure/fastapi-architecture)
@@ -17,5 +15,4 @@
 #### Useful links
 
 [__Install docker ubuntu 20.04__](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru)
-
 [__Install docker-compose ubuntu 20.04__](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-ru)
