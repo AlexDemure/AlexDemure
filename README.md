@@ -1,6 +1,6 @@
 #  Cooking cupcakes🧁 in dev [](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AlexDemure&theme=blue-green)
+![Stats](https://camo.githubusercontent.com/0e8d1ad28a7f73ee42349a811f26e51f6bc55aee6629d804f6319e8b40b84f4e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416c657844656d757265267468656d653d626c75652d677265656e)
 
 ### Work stack
 
