@@ -5,7 +5,7 @@
   Based in Chelyabinsk, Russia · UTC +05:00
 </p>
 
-### 🛠 Tech Stack
+### 🧰 Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Web-000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
@@ -39,12 +39,20 @@
   <img src="https://img.shields.io/badge/Refactoring-000?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+### ⚙️ Developer Tools
+
+I build libraries to automate and simplify development workflows:
+
+- [![fastgenerator](https://img.shields.io/badge/fastgenerator-CLI-blue?logo=github)](https://github.com/AlexDemure/fastgenerator) - CLI tool to scaffold typical project structures for FastAPI-based applications.
+- [![fastoas](https://img.shields.io/badge/fastoas-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/fastoas) - FastAPI extensions for overriding and enriching OpenAPI metadata.
+- [![fastclient](https://img.shields.io/badge/fastclient-CLI-blue?logo=github)](https://github.com/AlexDemure/fastclient) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
+
 ### 🐾 My Charity Project
 
 I’m developing [catjustin.com](https://catjustin.com), a personal web platform to support animal shelters.  
 I’m fully responsible for the entire lifecycle of the project — from system design and development to DevOps, testing, marketing, and promotion on social media.
 
-### 💼 About Me
+### 👤 About Me
 
 - 👨‍💻 GitHub: [AlexDemure](https://github.com/AlexDemure)
 - 📬 Email: [alexanderdemure@gmail.com](mailto:alexanderdemure@gmail.com)
