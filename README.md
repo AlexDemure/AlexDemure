@@ -5,7 +5,7 @@
   Based in Chelyabinsk, Russia · UTC +05:00
 </p>
 
-### 🧰 Skills
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Web-000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
