@@ -43,9 +43,10 @@
 
 I build libraries to automate and simplify development workflows:
 
-- [![fastgenerator](https://img.shields.io/badge/fastgenerator-CLI-blue?logo=github)](https://github.com/AlexDemure/fastgenerator) - CLI tool to scaffold typical project structures for FastAPI-based applications.
-- [![fastoas](https://img.shields.io/badge/fastoas-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/fastoas) - FastAPI extensions for overriding and enriching OpenAPI metadata.
-- [![fastclient](https://img.shields.io/badge/fastclient-CLI-blue?logo=github)](https://github.com/AlexDemure/fastclient) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
+- [![gadcodegen](https://img.shields.io/badge/fastgenerator-CLI-blue?logo=github)](https://github.com/AlexDemure/gadcodegen) - CLI tool to scaffold typical project structures for applications.
+- [![gadhttpclient](https://img.shields.io/badge/fastclient-CLI-blue?logo=github)](https://github.com/AlexDemure/gadhttpclient) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
+- [![gadopenapi](https://img.shields.io/badge/fastoas-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadopenapi) - FastAPI extensions for overriding and enriching OpenAPI metadata.
+- [![gadlogger](https://img.shields.io/badge/fastoas-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogger) - A production-ready logging configuration module for Python.
 
 ### 🐾 My Charity Project
 
