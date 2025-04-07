@@ -43,10 +43,10 @@
 
 I build libraries to automate and simplify development workflows:
 
-- [![gadcodegen](https://img.shields.io/badge/fastgenerator-CLI-blue?logo=github)](https://github.com/AlexDemure/gadcodegen) - CLI tool to scaffold typical project structures for applications.
-- [![gadhttpclient](https://img.shields.io/badge/fastclient-CLI-blue?logo=github)](https://github.com/AlexDemure/gadhttpclient) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
-- [![gadopenapi](https://img.shields.io/badge/fastoas-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadopenapi) - FastAPI extensions for overriding and enriching OpenAPI metadata.
-- [![gadlogger](https://img.shields.io/badge/fastoas-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogger) - A production-ready logging configuration module for Python.
+- [![gadcodegen](https://img.shields.io/badge/gadcodegen-CLI-blue?logo=github)](https://github.com/AlexDemure/gadcodegen) - CLI tool to scaffold typical project structures for applications.
+- [![gadhttpclient](https://img.shields.io/badge/gadhttpclient-CLI-blue?logo=github)](https://github.com/AlexDemure/gadhttpclient) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
+- [![gadopenapi](https://img.shields.io/badge/gadopenapi-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadopenapi) - FastAPI extensions for overriding and enriching OpenAPI metadata.
+- [![gadlogger](https://img.shields.io/badge/gadlogger-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogger) - A production-ready logging configuration module for Python.
 
 ### 🐾 My Charity Project
 
