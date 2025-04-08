@@ -39,6 +39,13 @@
   <img src="https://img.shields.io/badge/Refactoring-000?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+### 🧱 Code Style & Architecture
+
+[![gadfastapi](https://img.shields.io/badge/gadfastapi-Style%20Guide-blue?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/AlexDemure/gadfastapi)
+
+This is my take on how a FastAPI project can be structured — clean, straightforward, and easy to support.  
+The repo includes a code generation tool to help speed up writing typical parts of the app like endpoints, services, and repositories.
+
 ### ⚙️ Developer Tools
 
 I build libraries to automate and simplify development workflows:
