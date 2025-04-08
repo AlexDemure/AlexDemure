@@ -1,6 +1,6 @@
 <h2 align="center">
-  <strong>👋 Hi, Boss</strong><br><br>
-  <strong>🐍 Python Developer</strong><br><br>
+  <strong>👋 Hi, Boss</strong><br>
+  <strong>🐍 Python Developer</strong><br>
   🇷🇺 Based in Chelyabinsk, Russia · UTC +05:00
 </h2>
 
