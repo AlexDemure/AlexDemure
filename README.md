@@ -1,8 +1,8 @@
-<h1 align="center">
+<h2 align="center">
   <strong>👋 Hi, Boss</strong><br><br>
   <strong>🐍 Python Developer</strong><br><br>
   🇷🇺 Based in Chelyabinsk, Russia · UTC +05:00
-</h1>
+</h2>
 
 ### 🧰 Tech Stack
 
