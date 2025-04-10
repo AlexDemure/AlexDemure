@@ -53,6 +53,7 @@ I build libraries to automate and simplify development workflows:
 - [![gadhttpclient](https://img.shields.io/badge/gadhttpclient-CLI-blue?logo=github)](https://github.com/AlexDemure/gadhttpclient) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
 - [![gadopenapi](https://img.shields.io/badge/gadopenapi-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadopenapi) - FastAPI extensions for overriding and enriching OpenAPI metadata.
 - [![gadlogger](https://img.shields.io/badge/gadlogger-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogger) - A production-ready logging configuration module for Python.
+- [![gadify](https://img.shields.io/badge/gadify-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadify) -A lightweight utility library for building clean and reusable data manipulation functions.
 - [![gads3client](https://img.shields.io/badge/gads3client-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gads3client) - An async and lightweight S3 client for uploading, downloading, and deleting files.
 
 ### 🐾 My Charity Project
