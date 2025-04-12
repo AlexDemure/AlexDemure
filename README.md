@@ -40,7 +40,7 @@
 
 ### 🧱 Code Style & Architecture
 
-[![gadfastapi](https://img.shields.io/badge/gadfastapi-Style%20Guide-blue?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/AlexDemure/gadfastapi)
+[![gadfaststyle](https://img.shields.io/badge/gadfaststyle-Style%20Guide-blue?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/AlexDemure/gadfaststyle)
 
 This is my take on how a FastAPI project can be structured — clean, straightforward, and easy to support.  
 The repo includes a code generation tool to help speed up writing typical parts of the app like endpoints, services, and repositories.
@@ -49,12 +49,12 @@ The repo includes a code generation tool to help speed up writing typical parts 
 
 I build libraries to automate and simplify development workflows:
 
-- [![gadcodegen](https://img.shields.io/badge/gadcodegen-CLI-blue?logo=github)](https://github.com/AlexDemure/gadcodegen) - CLI tool to scaffold typical project structures for applications.
-- [![gadhttpclient](https://img.shields.io/badge/gadhttpclient-CLI-blue?logo=github)](https://github.com/AlexDemure/gadhttpclient) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
-- [![gadopenapi](https://img.shields.io/badge/gadopenapi-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadopenapi) - FastAPI extensions for overriding and enriching OpenAPI metadata.
-- [![gadlogger](https://img.shields.io/badge/gadlogger-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogger) - A production-ready logging configuration module for Python.
-- [![gadify](https://img.shields.io/badge/gadify-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadify) -A lightweight utility library for building clean and reusable data manipulation functions.
-- [![gads3client](https://img.shields.io/badge/gads3client-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gads3client) - An async and lightweight S3 client for uploading, downloading, and deleting files.
+- [![gadcodegenerator](https://img.shields.io/badge/gadcodegenerator-CLI-blue?logo=github)](https://github.com/AlexDemure/gadcodegenerator) - CLI tool to scaffold typical project structures for applications.
+- [![gadopenapiconverter](https://img.shields.io/badge/gadopenapiconverter-CLI-blue?logo=github)](https://github.com/AlexDemure/gadopenapiconverter) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
+- [![gadfastopenapi](https://img.shields.io/badge/gadfastopenapi-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastopenapi) - FastAPI extensions for overriding and enriching OpenAPI metadata.
+- [![gadlogging](https://img.shields.io/badge/gadlogging-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogging) - A production-ready logging configuration module for Python.
+- [![gadutils](https://img.shields.io/badge/gadutils-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadutils) -A utility library for building clean and reusable data manipulation functions.
+- [![gads3](https://img.shields.io/badge/gads3-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gads3) - An async and lightweight S3 client for uploading, downloading, and deleting files.
 
 ### 🐾 My Charity Project
 
