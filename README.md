@@ -52,6 +52,7 @@ I build libraries to automate and simplify development workflows:
 - [![gadcodegenerator](https://img.shields.io/badge/gadcodegenerator-CLI-blue?logo=github)](https://github.com/AlexDemure/gadcodegenerator) - CLI tool to scaffold typical project structures for applications.
 - [![gadopenapiconverter](https://img.shields.io/badge/gadopenapiconverter-CLI-blue?logo=github)](https://github.com/AlexDemure/gadopenapiconverter) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
 - [![gadfastopenapi](https://img.shields.io/badge/gadfastopenapi-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastopenapi) - FastAPI extensions for overriding and enriching OpenAPI metadata.
+- [![gadfastemporal](https://img.shields.io/badge/gadfastemporal-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastemporal) - Example repository demonstrating integration of Temporal workflows with FastAPI.
 - [![gadlogging](https://img.shields.io/badge/gadlogging-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogging) - A production-ready logging configuration module for Python.
 - [![gadutils](https://img.shields.io/badge/gadutils-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadutils) -A utility library for building clean and reusable data manipulation functions.
 - [![gads3](https://img.shields.io/badge/gads3-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gads3) - An async and lightweight S3 client for uploading, downloading, and deleting files.
