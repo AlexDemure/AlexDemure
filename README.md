@@ -55,6 +55,7 @@ I build libraries to automate and simplify development workflows:
 - [![gadfastemporal](https://img.shields.io/badge/gadfastemporal-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastemporal) - Example repository demonstrating integration of Temporal workflows with FastAPI.
 - [![gadfasthealth](https://img.shields.io/badge/gadfasthealth-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfasthealth) - FastAPI health check extension for Kubernetes liveness, readiness, and startup probes.
 - [![gadlogging](https://img.shields.io/badge/gadlogging-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogging) - A production-ready logging configuration module for Python.
+- [![gadfastsentry](https://img.shields.io/badge/gadfastsentry-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastsentry) - A production-ready sentry configuration module for Python.
 - [![gadutils](https://img.shields.io/badge/gadutils-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadutils) -A utility library for building clean and reusable data manipulation functions.
 - [![gads3](https://img.shields.io/badge/gads3-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gads3) - An async and lightweight S3 client for uploading, downloading, and deleting files.
 
