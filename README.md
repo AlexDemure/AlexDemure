@@ -51,6 +51,7 @@ I build libraries to automate and simplify development workflows:
 
 - [![gadcodegenerator](https://img.shields.io/badge/gadcodegenerator-CLI-blue?logo=github)](https://github.com/AlexDemure/gadcodegenerator) - CLI tool to scaffold typical project structures for applications.
 - [![gadopenapiconverter](https://img.shields.io/badge/gadopenapiconverter-CLI-blue?logo=github)](https://github.com/AlexDemure/gadopenapiconverter) - CLI tool for generating HTTP clients from OpenAPI for inter-service communication.
+- [![gadpytestprofiler](https://img.shields.io/badge/gadpytestprofiler-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadpytestprofiler) - A profiler for benchmarking queries, functions, and I/O/network performance, with pydantic outputs.
 - [![gadfastopenapi](https://img.shields.io/badge/gadfastopenapi-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastopenapi) - FastAPI extensions for overriding and enriching OpenAPI metadata.
 - [![gadfastemporal](https://img.shields.io/badge/gadfastemporal-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastemporal) - Example repository demonstrating integration of Temporal workflows with FastAPI.
 - [![gadfasthealth](https://img.shields.io/badge/gadfasthealth-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfasthealth) - FastAPI health check extension for Kubernetes liveness, readiness, and startup probes.
