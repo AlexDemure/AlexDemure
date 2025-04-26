@@ -60,6 +60,7 @@ I build libraries to automate and simplify development workflows:
 - [![gadasyncblock](https://img.shields.io/badge/gadasyncblock-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadasyncblock) - Event loop lock detector for Python.
 - [![gadutils](https://img.shields.io/badge/gadutils-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadutils) -A utility library for building clean and reusable data manipulation functions.
 - [![gads3](https://img.shields.io/badge/gads3-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gads3) - An async and lightweight S3 client for uploading, downloading, and deleting files.
+- [![gadignore](https://img.shields.io/badge/gadignore-CLI-blue?logo=github)](https://github.com/AlexDemure/gadignore) - CLI tool for quickly generating a .gitignore file for Python projects.
 - [![gadlint](https://img.shields.io/badge/gadlint-CLI-blue?logo=github)](https://github.com/AlexDemure/gadlint) - CLI tool that runs isort, ruff, mypy, and radon with built-in configurations.
 
 ### 🐾 My Charity Project
