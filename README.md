@@ -55,6 +55,7 @@ I build libraries to automate and simplify development workflows:
 - [![gadfastopenapi](https://img.shields.io/badge/gadfastopenapi-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastopenapi) - FastAPI extensions for overriding and enriching OpenAPI metadata.
 - [![gadfastemporal](https://img.shields.io/badge/gadfastemporal-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastemporal) - Example repository demonstrating integration of Temporal workflows with FastAPI.
 - [![gadfasthealth](https://img.shields.io/badge/gadfasthealth-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfasthealth) - FastAPI health check extension for Kubernetes liveness, readiness, and startup probes.
+- [![gadfastetdc](https://img.shields.io/badge/gadfastetdc-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastetdc) - FastAPI integration with Etcd for managing configuration settings via a RESTful API.
 - [![gadfastsentry](https://img.shields.io/badge/gadfastsentry-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastsentry) - A production-ready sentry configuration module for Python.
 - [![gadlogging](https://img.shields.io/badge/gadlogging-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogging) - A production-ready logging configuration module for Python.
 - [![gadasyncblock](https://img.shields.io/badge/gadasyncblock-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadasyncblock) - Event loop lock detector for Python.
