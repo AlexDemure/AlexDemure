@@ -45,7 +45,7 @@
 This is my take on how a FastAPI project can be structured — clean, straightforward, and easy to support.  
 The repo includes a code generation tool to help speed up writing typical parts of the app like endpoints, services, and repositories.
 
-### ⚙️ Developer Tools
+### ⚙️ Example Developer Tools
 
 I build libraries to automate and simplify development workflows:
 
