@@ -58,6 +58,7 @@ I build libraries to automate and simplify development workflows:
 - [![gadfastetdc](https://img.shields.io/badge/gadfastetdc-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastetdc) - FastAPI integration with Etcd for managing configuration settings via a RESTful API.
 - [![gadfastsentry](https://img.shields.io/badge/gadfastsentry-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastsentry) - A production-ready sentry configuration module for Python.
 - [![gadfastrouter](https://img.shields.io/badge/gadfastrouter-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastrouter) - A FastAPI routing extension that provides detailed request/response logging.
+- [![gadfastcron](https://img.shields.io/badge/gadfastcron-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadfastcron) - Wrapper around APScheduler for managing scheduled tasks.
 - [![gadsqlalchemy](https://img.shields.io/badge/gadsqlalchemy-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadsqlalchemy) - Wrapper SQLAlchemy session with query execution profiling and connection context management.
 - [![gadlogging](https://img.shields.io/badge/gadlogging-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadlogging) - A production-ready logging configuration module for Python.
 - [![gadasyncblock](https://img.shields.io/badge/gadasyncblock-Extension-lightgrey?logo=github)](https://github.com/AlexDemure/gadasyncblock) - Event loop lock detector for Python.
